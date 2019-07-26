@@ -1,0 +1,17 @@
+{
+    "name": "lubobo/lunit-laravel",
+    "description": "a simple framework for laravel to unit test",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xijie12",
+            "email": "1058805781@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Lubobo\\LunitLaravel\\": "src"
+        }
+    }
+}
